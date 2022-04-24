@@ -1,0 +1,14 @@
+* {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+body {
+  background: linear-gradient(#000, #606060);
+}
+
+footer > h2 {
+  color: #fff;
+  font-size: 8px;
+  text-align: left;
+  margin-top: 20px;
+}
